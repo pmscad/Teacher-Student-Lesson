@@ -1,0 +1,17 @@
+{
+  "name": "week-10-homework",
+  "version": "1.0.0",
+  "description": "You will be architecting a lesson planner which will allow you to define a lesson, a teacher and allow you to record the attendance of students.",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^13.3.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "VM",
+  "license": "ISC"
+}
