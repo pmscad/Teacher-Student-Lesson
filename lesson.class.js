@@ -37,9 +37,10 @@ class Lesson {
     });
   }
   outputSummary() {
-    console.log(`     ------------
-    | Attendance |
-      ------------`);
+    console.log("The Maths lesson was conducted by Billy");
+    console.log(`------------
+| Attendance |
+------------`);
     this.students.forEach(student => {
       console.log(`${student.studentName} was ${student.attendance}`);
     });
